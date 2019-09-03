@@ -1,0 +1,10 @@
+https://paperswithcode.com/area/natural-language-processing
+
+
+QA IN PT
+https://medium.com/@nunorc/question-answering-model-fine-tuned-for-portuguese-801bb05b6119
+
+SQUAD PT DATASET
+https://github.com/nunorc/qaptnet
+
+https://pypi.org/project/pytorch-pretrained-bert/#notebooks 
